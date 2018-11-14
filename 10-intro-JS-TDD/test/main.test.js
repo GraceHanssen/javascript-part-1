@@ -7,11 +7,11 @@ test('should return 0 when empty string provided', () => {
     expect(add('')).toBe(0);
 });
 
-/* TODO: uncomment me, run and make me pass! (step 2)
+
 test('should return sum when to integers are provided', () => {
     expect(add(4, 5)).toBe(9);
 });
-*/
+
 
 /* TODO: uncomment me, run and make me pass! (step 3)
 test('should return the value of the only numeric parameter when the other parameter is not a number', () => {
